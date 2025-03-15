@@ -9,7 +9,9 @@ columns = 'DR_NO', 'Date Rptd', 'DATE OCC', 'TIME OCC', 'AREA', 'AREA NAME',
        'Crm Cd 2', 'Crm Cd 3', 'Crm Cd 4', 'LOCATION', 'Cross Street', 'LAT',
        'LON'
 
-"""
+
+
+<!--- 
 Columns: 
 - DR_NO: identification number
 - Date rptd: Date and time of the crime reported
@@ -32,7 +34,10 @@ Columns:
 - Location of the crime
 - Cross street
 - Latitude and Longitude
-"""
+---> 
+
+
+
 
 
 
